@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="poster_img_description">Poster image of the movie</string>
+    <string name="sort_by">Sort By</string>
+    <string name="sort_most_popular">Sort by Most Popular</string>
+    <string name="sort_rating">Sort by Rating</string>
+    <string name="sort_favourites">Sort by Favourites</string>
+    <string name="internet_conn_msg">Please make sure you are connected to internet</string>
+    <string name="loading_msg">Please wait</string>
+    <string name="movie_err_msg">Error in fetching movies</string>
+    <string name="added_fav_msg">Added to favourites</string>
+    <string name="remove_fav_msg">Removed from favourites</string>
+    <string name="mark_favorite">Mark as favorite</string>
+    <string name="mark_unfavorite">Mark unfavorite</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="trailer">Trailer %d</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_share">Share</string>
+</resources>
